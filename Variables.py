@@ -34,6 +34,7 @@ Teniendo en mente que 1 milla equivale aproximadamente a 1.61 kilómetros,
 complementa el programa en el editor para que convierta de:
 
 Millas a kilómetros;
+
 Kilómetros a millas.
 No se debe cambiar el código existente.
 Escribe tu código en los lugares indicados con ###.
